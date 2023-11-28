@@ -1,3 +1,5 @@
+![App Screenshot](.github/cover-sm.png)
+
 # FarejoPet - Aplicativo para Adoção e Resgate de Animais em Situação de Vulnerabilidade
 
 Este repositório contém informações e recursos relacionadas ao projeto do TCC "Aplicativo para Adoção e Resgate de Animais em Situação de Vulnerabilidade", desenvolvido por Guilherme S. Martins e Veronica Gonçalves como trabalho de conclusão do curso de Análise e Desenvolvimento de Sistemas na Faculdade de Tecnologia de Garça, no primeiro semestre de 2023.
@@ -12,7 +14,7 @@ Por anos, os animais têm sido considerados membros da família, no entanto, é 
 - **Conexão entre Usuários e Instituições:** Facilita a comunicação entre usuários interessados em adotar ou resgatar animais e instituições de cuidado animal.
 - **Interface Intuitiva e Amigável (amigável para pessoas com espectro autista):** Desenvolvida com foco na usabilidade, proporcionando uma experiência agradável para os usuários.
 - **Doações para ONGs com retorno de feedback mensal transparente para os doadores:** A aplicação conta com módulo de doação para ONGs relacionadas que estejam em nossa base dados e que forneçam feedback transparente e periódico sobre o projeto.
-- **Módulos de e-commerce para comercializar produtos para petshops e serviços de clínicas veterinárias** A aplicação conta com módulo de doação para ONGs relacionadas que estejam em nossa base dados e que forneçam feedback transparente e periódico sobre o projeto.
+- **Módulos de e-commerce para comercializar produtos para petshops e serviços de clínicas veterinárias** A aplicação conta com módulo de e-commerce para que as empresas associdadas em nossa base possam comercializar seus produtos. A proposta inicial seria de 70% do lucro líquido seria doado para Ongs associadas e homologadas.
 
 ## Motivação do Projeto
 
@@ -27,6 +29,10 @@ JavaScript, Aplicação Mobile, Animais de Estimação, Petshops, Interface de A
 ## Documentação oficial do projeto:
 
 [Documentação oficial completa do TCC (Final Paper)](https://drive.google.com/file/d/1cly7pu_z8f6nZY4OkhKfEnHHrnSiM4np/view?usp=drive_link) 
+
+### Preview
+![App Screenshot](.github/project-preview.png)
+
 
 ## Metodologia de Desenvolvimento e Pesquisa
 Em breve

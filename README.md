@@ -30,20 +30,57 @@ JavaScript, Aplicação Mobile, Animais de Estimação, Petshops, Interface de A
 
 [Documentação oficial completa do TCC (Final Paper)](https://drive.google.com/file/d/1cly7pu_z8f6nZY4OkhKfEnHHrnSiM4np/view?usp=drive_link) 
 
-### Preview
-![App Screenshot](.github/project-preview.png)
-
+## Mapa mental e regras de negócio
+![Mapa mental inicial do projeto](.github/diagrams/mental-map.png)
 
 ## Metodologia de Desenvolvimento e Pesquisa
-Em breve
+
+#### Motivações para escolher SCRUM com Kanban como metodologia com entregas iterativas:
+
+O Scrum é um framework ágil utilizado para gerenciamento e desenvolvimento de projetos, especialmente na área de software. Ele se baseia em iterações curtas chamadas sprints, enfatizando a colaboração da equipe, a adaptabilidade às mudanças e a entrega contínua de valor ao nosso público alvo. Decidimos adicionar o Scrum a este projeto porque oferece flexibilidade, promove a comunicação eficaz entre os membros da equipe e permite uma abordagem incremental, o que é essencial para lidar com requisitos em constante evolução e garantir entregas frequentes e de alta qualidade.
+
+### Cronograma de Sprints utilizando SCRUM (Time boxes de 7 dias) 
+| Sprint | Data inicial | Data final | Período (dias) | Ações |
+|--------|--------------|------------|----------------|-------|
+| 1      | 05/12/2022   | 12/12/2022 | 7              | - Definição de método de trabalho - Pesquisa de validação - Apuração de pesquisa - Criar todos os repositórios - Criar quadro no Trello |
+| 2      | 12/12/2022   | 19/12/2022 | 7              | - Melhorar nossa documentação com NOTION - Criar um grupo para comunicação direta |
+| 3      | 19/12/2022   | 26/12/2022 | 7              | - Terminar a logo do projeto - Terminar tipografia - Criar apresentação para a qualificação |
+| 4      | 26/12/2022   | 02/01/2023 | 7              | - Finalizar diagramação - Começar o protótipo de baixa fidelidade |
+| 5      | 02/01/2023   | 09/01/2023 | 7              | - Começar a realizar o protótipo de baixa fidelidade |
+| 6      | 09/01/2023   | 16/01/2023 | 7              | - Revisão da documentação - Adição de referência |
+| 7      | 16/01/2023   | 23/01/2023 | 7              | - Organização de paleta de cores - Revisão de protótipo no FIGMA - Organização do plano de negócios |
+| 8      | 23/01/2023   | 30/01/2023 | 7              | - Revisão de diagramas - Modelagem de logotipo |
+| 9      | 30/01/2023   | 06/02/2023 | 7              | - Prototipação via clique - Padronização de layout |
+| 10     | 06/02/2023   | 13/02/2023 | 7              | - Design e integração de API |
+| 11     | 13/02/2023   | 20/02/2023 | 7              | - Integração com banco de dados POSTGRESQL - Adição de ORM |
+| 12     | 20/02/2023   | 27/02/2023 | 7              | - Adição de tratativa de erros ao projeto (API) - Incremento de documentação - Revisão de containers Docker |
+| 13     | 27/02/2023   | 06/03/2023 | 7              | - Adição de diagramas e fluxos na documentação |
+| 14     | 06/03/2023   | 13/03/2023 | 7              | - Implementação de novas rotas na API |
+| 15     | 13/03/2023   | 20/03/2023 | 7              | - Criação de novas telas para MVP no aplicativo mobile |
+| 16     | 20/03/2023   | 27/03/2023 | 7              | - Adição de fluxos menores API |
+| 17     | 27/03/2023   | 03/04/2023 | 7              | - Revisão de telas mobile |
+| 18     | 03/04/2023   | 10/04/2023 | 7              | - Restruturação mobile |
+| 19     | 10/04/2023   | 17/04/2023 | 7              | - Testes gerais |
+| 20     | 17/04/2023   | 24/04/2023 | 7              | - Teste de consumo de API |
+| 21     | 24/04/2023   | 01/05/2023 | 7              | - Revisão geral por parte dos integrantes |
+| 22     | 01/05/2023   | 08/05/2023 | 7              | - Adicione itens |
+| 23     | 08/05/2023   | 15/05/2023 | 7              | - Revisão geral e entrega da documentação final |
+| 24     | 15/05/2023   | 22/05/2023 | 7              | - Prazo para alinhamento com corpo da documentação |
+| 25     | 22/05/2023   | 29/05/2023 | 7              | - Revisão geral para defesa |
+
 
 ## Diagramação UML do projeto
-Em breve
+### Diagrama UML de Caso de Uso
+![Digrama de caso de uso](.github/diagrams/caso-uso.svg)
+### Diagrama UML de Classes
+![Diagram de classes](.github/diagrams/classes.svg)
 
 ## Protótipo no Figma
 
-[Link para o protótipo no Figma](https://www.figma.com/file/7kLfqZ91L9fZMJLsfOctAu/Farejopet---Mocks?type=design&node-id=0%3A1&mode=design&t=ahskI0Bslh9Qi1Cu-1) 
+[Link direto para o protótipo no Figma](https://www.figma.com/file/7kLfqZ91L9fZMJLsfOctAu/Farejopet---Mocks?type=design&node-id=0%3A1&mode=design&t=ahskI0Bslh9Qi1Cu-1) 
 
+### Preview
+![Figma App Model Preview](.github/project-preview.png)
 
 ## Como contribuir e revisar esta documentação
 
@@ -56,8 +93,11 @@ Se você deseja contribuir com este projeto, siga estes passos:
 
 ## Autores
 
-- [Guilherme S. Martins](https://github.com/g-santosmartins/)
+- [Guilherme dos Santos Martins](https://github.com/g-santosmartins/)
+    - [LinkedIn](https://www.linkedin.com/in/guilhermedossantosmartins/)
+    - [Linktree](https://linktr.ee/gsantosmartins)
 - [Veronica Gonçalves](https://github.com/ve-panda) 
+  - [LinkedIn](https://www.linkedin.com/in/ver%C3%B4nica-gon%C3%A7alves-ab509b239/) 
 
 ## Agradecimentos especiais
 
